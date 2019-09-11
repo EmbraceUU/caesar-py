@@ -1,9 +1,7 @@
-"""
-diff dict by set
-"""
-
-
 class DictDiffer(object):
+    """
+    diff dict by set
+    """
 
     def __init__(self, current_dict, past_dict):
         self.current_dict, self.past_dict = current_dict, past_dict
