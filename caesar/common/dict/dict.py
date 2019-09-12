@@ -1,4 +1,4 @@
-class DictDiffer(object):
+class DictDiff(object):
     """
     diff dict by set
     """
